@@ -1,0 +1,13 @@
+name: Shiny_hamstore
+title: Shiny_hamstore
+username:
+account: suraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 362853
+bundleId: 1438455
+url: https://suraj.shinyapps.io/Shiny_hamstore/
+when: 1529459526.21751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: code.R
